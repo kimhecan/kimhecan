@@ -1,16 +1,20 @@
-### Hi there 👋
+## Front-End Developer
 
-<!--
-**kimhecan/kimhecan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 유저 경험과 검색엔진 최적화에 관심 있습니다.
+- 동료들과 함께 문제를 해결하는 것을 즐깁니다.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	
+	
+
+## career
+
+
+- [스크린골프 예약 플렛폼, 김캐디](https://kimcaddie.com) 프론트엔드 개발  ( 20.08 ~ 2021.06)
+
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimhecan%2Fkimhecan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+ [![Blog Badge](https://img.shields.io/badge/-blog-%2303C75A)](https://blog.naver.com/kimhecan)
