@@ -1,14 +1,14 @@
 ## Front-End Developer
 
-- 유저 경험과 검색엔진 최적화에 관심 있습니다.
+- 유저 경험에 관심이 있습니다.
 - 동료들과 함께 문제를 해결하는 것을 즐깁니다.
 - [로켓펀치](https://www.rocketpunch.com/@kimhecan)
 
 ## career
 
 
-- [스크린골프 예약 플렛폼, 김캐디](https://kimcaddie.com) 프론트엔드 개발  ( 20.08 ~ 21.06 )
-- [데이터를 맛보다, 뱅크샐러드](https://www.banksalad.com) 프론트엔드 개발  ( 21.08 ~ )
+- [김캐디](https://kimcaddie.com) 프론트엔드 개발  ( 20.08 ~ 21.06 )
+- [뱅크샐러드](https://www.banksalad.com) 프론트엔드 개발  ( 21.08 ~ )
 
 
 
