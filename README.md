@@ -7,7 +7,7 @@
 
 
 - [김캐디](https://kimcaddie.com) 프론트엔드 개발  ( 20.08 ~ 21.06 )
-- [뱅크샐러드](https://www.banksalad.com) 프론트엔드 개발  ( 21.08 ~ )
+- [뱅크샐러드](https://www.banksalad.com) 프론트엔드 개발  ( 21.08 ~ 24.03 )
 
 
 
